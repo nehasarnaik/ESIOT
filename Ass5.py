@@ -1,8 +1,8 @@
 #Assignment No: 5
 #Problem Statement :Understanding the connectivity of Raspberry-Pi /Beagle board circuit with
 #IR sensor. Write an application to detect obstacles and notify the user using LEDs.
-#Name :Shreya S.Patil
-#TEA 47
+#Name :Neha V. Sarnaik
+#TEA 55
 
 import RPi.GPIO as GPIO
 
