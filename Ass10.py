@@ -1,8 +1,8 @@
 #Assignment No.:10
 #Problem Statement : Write an application using Raspberry-Pi /Beagle board to control the
 #operation of a hardware simulated traffic signal.
-#Name: Shreya S. Patil TE-A
-#RollNo: 47
+#Name: Neha V. Sarnaik TE-A
+#RollNo: 55
 
 import time
 
