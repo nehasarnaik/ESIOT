@@ -1,7 +1,7 @@
 #Assignment No.: 9
 #Problem Statement :Write an application using Raspberry-Pi to control the operation of stepper motor.
-# Name : Shreya S.Patil
-#TE A 47
+# Name : Neha V. Sarnaik
+#TE A 55
 
 import RPi.GPIO as GPIO 
 import time
