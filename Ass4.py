@@ -2,8 +2,8 @@
 #Problem Statement :Understanding the connectivity of Raspberry-Pi/Beagle board with
 #temperature sensor. Write an application to read the environment temperature. If temperature
 #crosses a threshold value, the application indicated user using LEDs.
-#Name :Shreya S.Patil
-#TEA 47
+#Name :Neha V. Sarnaik
+#TEA 55
 
 import RPi.GPIO as GPIO
 import time,sys
