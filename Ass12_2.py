@@ -1,7 +1,7 @@
 #Assignment No.: 12
 #Problem To understand client server application  on Raspberry Pi inorder to get services. 
-#Name : Shreya S. Patil
-#Class TE-A Roll No.: 47
+#Name : Neha V. Sarnaik
+#Class TE-A Roll No.: 55
 
 from picamera import PiCamera
 from time import sleep
