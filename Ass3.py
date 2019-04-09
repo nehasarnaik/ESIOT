@@ -1,8 +1,8 @@
 #Assignment No: 3
 #Problem Statement :Study of Connectivity and configuration of Raspberry-Pi /Beagle board
 #circuit with basic peripherals, LEDS. Understanding GPIO and its use in program.
-#Name :Shreya S.Patil
-#TEA 47
+#Name :Neha V. Sarnaik
+#TEA 55
 
 import RPi.GPIO as GPIO
 import time
